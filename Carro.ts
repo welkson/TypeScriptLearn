@@ -1,12 +1,10 @@
-"use strinct";
-
 class Carro {
   cor: string;
   ano:number;
   marca:string;
 
   constructor() {
-        console.log("Instanciando Carro");    
+        console.log("Instanciando Carro");
   }
 }
 
@@ -15,7 +13,7 @@ class MiniVan extends Carro {
 
   constructor() {
         super()
-        console.log("Instanciando MiniVan");    
+        console.log("Instanciando MiniVan");
   }
 }
 
