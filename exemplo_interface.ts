@@ -19,10 +19,10 @@ class Motorista implements Dirigir {
     }
 
     desligar_carro():void {
-      console.log("Desligar carro")
+      console.log("Desligar carro");
     }
 }
 
-var motoristaA = new Motorista()
-motoristaA.ligar_carro()
-motoristaA.acelear()
+var motoristaA = new Motorista();
+motoristaA.ligar_carro();
+motoristaA.acelear();
