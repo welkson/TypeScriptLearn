@@ -1,3 +1,4 @@
+"use strict";
 var __extends = (this && this.__extends) || (function () {
     var extendStatics = Object.setPrototypeOf ||
         ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
@@ -18,7 +19,7 @@ var MiniVan = (function (_super) {
     __extends(MiniVan, _super);
     function MiniVan() {
         var _this = _super.call(this) || this;
-        console.log("Instanciando MiniVan");
+        console.log("Instanciando MiniVan5...");
         return _this;
     }
     return MiniVan;

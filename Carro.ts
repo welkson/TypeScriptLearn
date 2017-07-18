@@ -13,7 +13,7 @@ class MiniVan extends Carro {
 
   constructor() {
         super()
-        console.log("Instanciando MiniVan");
+        console.log("Instanciando MiniVan...");
   }
 }
 

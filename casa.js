@@ -1,3 +1,4 @@
+"use strict";
 var Casa = (function () {
     function Casa() {
         console.log("Ola Casa!");
