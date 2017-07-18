@@ -1,4 +1,3 @@
-"use strict";
 var Motorista = (function () {
     function Motorista() {
     }
@@ -18,3 +17,4 @@ var Motorista = (function () {
 }());
 var motoristaA = new Motorista();
 motoristaA.ligar_carro();
+motoristaA.acelear();
